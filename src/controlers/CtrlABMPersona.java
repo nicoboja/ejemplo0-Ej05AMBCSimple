@@ -17,7 +17,7 @@ public class CtrlABMPersona {
 	public void add(Persona p) {
 		this.pers.add(p);
 	}
-	
+	//creo que eliminaria este metodo. 
 	public void delete(Persona p){
 		//this.pers.remove(this.getByDni(p));
 		this.pers.remove(p);
